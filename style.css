@@ -59,7 +59,7 @@ main{
 .container{
     background-color: rgba(39, 30, 30, 0.219);
     border: 4px solid rgb(231, 231, 231);
-    width: 40vw;
+    width: 50vw;
     padding: 1rem;
     text-align: center;
     border-radius: 10px;
@@ -82,4 +82,5 @@ main #btn{
     border: 3px solid whitesmoke;
     background-color: rgba(231, 231, 231, 0.089);
     letter-spacing: 5px;
+    border-radius: 8px;
 }
